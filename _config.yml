@@ -53,67 +53,230 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Problem solving</mark> and <mark>making cupcakes</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Arizona
-        caption: 2010 - 2013
-        sub_title: BS Cognitive Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        caption: August 2020
+        sub_title: Bacheleor's of Scince in Neuroscience and Cognitive Science
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          *	Magna Cum Laude
+          *	Tau Sigma National Honor Society Member 
+          *	Arizona Science Engineering and Mathematics Scholars (ASEMS) Member
+          *	University of Arizona Honors College Member
+      - layout: left
+        title: Yavapai College
+        caption: Decemeber 2018
+        sub_title: Associates of Science
+        description: | # this will include new lines to allow paragraphs
+          *	GPA: 3.53
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Saint Cupcake
+        link: www.saintcupcake.com
+        link_text: saintcupcake.com
+        sub_title: Sales, Baker & Decorator
+        caption: September '21 - October '22<br />Portland, OR          
+        description: | # this will include new lines to allow paragraphs
+            *	Utilized previous back-of-house experience, and personal love of baking to transition from counter sales to Bake and Decorator roles
+            *	Prepped, baked and iced over 1200 cupcakes per day to exacting standards 
+            *	Decorated customer cakes as per customer specifications
+            *	Rapidly advanced in role and began training new bakers 
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - layout: left
+        title: Madams Jams
+        sub_title: Vendor Sales Associate
+        caption: June '21 - September '21<br />Denver, CO           
+        description: | # this will include new lines to allow paragraphs
+            * Ad amet sunt labore aliquip dolore aute consectetur exercitation reprehenderit sint ad commodo reprehenderit.
+            * Lorem aliqua Lorem eu aliquip aute veniam in velit cupidatat ad ut.
+
+      - layout: left
+        title: Muddy Buck Cafe
+        link: muddybuckcoffeehouse.com
+        link_text: Muddy Buck Coffee House
+        sub_title: Manager
+        caption: June '20 - June '21<br />Evergreen, CO           
+        description: | # this will include new lines to allow paragraphs
+            * Aliquip incididunt enim officia qui.
+            * Elit quis laborum irure minim enim nulla laboris et eu laboris incididunt tempor.
+
+      - layout: left
+        title: Arizona Catering Company
+        link: union.arizona.edu/catering/
+        link_text: Arizona Catering Company
+        sub_title: Catering Server
+        caption: January '19 - May '19<br />Tucson, AZ           
+        description: | # this will include new lines to allow paragraphs
+            * Ipsum deserunt occaecat nostrud do et cillum qui.
+            * Exercitation dolor nostrud dolore do aliqua commodo exercitation exercitation ipsum nisi voluptate ad eu ullamco.
+
+      - layout: left
+        title: Olive Garden
+        link: olivegarden.com
+        link_text: olivegarden.com
+        sub_title: Server
+        caption: July '17 - December '18<br />Prescott, AZ           
+        description: | # this will include new lines to allow paragraphs
+            * Nostrud qui veniam occaecat quis duis ea veniam reprehenderit laborum.
+            * Eiusmod sint qui reprehenderit eiusmod tempor ut adipisicing qui anim minim.
+
+  - title: Academic Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Arizona
+        link: arizona.edu
+        link_text: arizona.edu
+        sub_title: ASEMS-T Peer Mentor
+        caption: September '21 - October '21 <br />Tucson, AZ  
+        description: | # this will include new lines to allow paragraphs
+            * Sint fugiat consequat dolore dolore consequat cillum officia eu.
+            * Pariatur pariatur est officia Lorem quis nostrud irure id irure excepteur veniam enim.s
+
+      - layout: left
+        title: University of Arizona
+        link: arizona.edu
+        link_text: arizona.edu
+        sub_title: Research assistant<br />Learning, Language, Literacy, And Lexicon Lab
+        caption: January '19 - May '20 <br />Tucson, AZ  
+        description: | # this will include new lines to allow paragraphs
+            * Et enim excepteur ipsum occaecat ut esse ex magna aute id proident.
+            * Nostrud deserunt anim laborum non ex tempor nisi sit.s
+
+      - layout: left
+        title: University of Michigan Research Experiences for Undergraduates Program	
+        link: arizona.edu
+        link_text: arizona.edu
+        sub_title: Research Assistant<br />Translation & Developmental Lab
+        caption: September '21 - October '21<br />Ann Arbor, MI
+        description: | # this will include new lines to allow paragraphs
+            * Officia mollit eiusmod officia consequat occaecat minim id id et nulla commodo cupidatat exercitation anim.
+            * Fugiat cupidatat sint ex labore enim proident irure enim do fugiat non laboris.s
+
+      - layout: left
+        title: Yavapai College
+        link: yc.edu
+        link_text: yc.edu
+        sub_title: Lab Assistance<br />Chemistry Department
+        caption: August '17 - May '18<br />Prescott, AZ
+        description: | # this will include new lines to allow paragraphs
+            * Proident occaecat irure aute esse amet mollit exercitation commodo laborum et pariatur.
+            * Qui aliquip aliquip dolore qui deserunt.s
+
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+
+
+  - title: Awards & Nominations
+    layout: list
+    content:
+      - layout: top-left
+        # title: 
+        sub_title: Provost Award | Nomination
+        caption: February '20
+        description: | # this will include new lines to allow paragraphs
+            Nomination by Lupita Mendez, Program Manager & Transfer Specialist ASEMS Scholars Program, University of Arizona
+
+      - layout: top-left
+        sub_title: S-STEM Symposium Travel Award 
+        caption: September '19
+        description: | 
+            Nomination by Dr. Katrina Miranda, Department of Chemistry and Biochemistry, University of Arizona
+
+      - layout: top-left
+        sub_title: S-STEM Scholarship 
+        caption: August '18
+        description: | 
+            $10,000 supported by NSF grant 
+
+
+
+  - title: Memberships
+    layout: list
+    content:
+      - layout: top-left
+        sub_title: April '19
+        description: | 
+          Tau Sigma National Honor Society
+      - layout: top-left
+        sub_title: August '18
+        description: | 
+          Arizona Science Engineering And Mathematics Scholars (ASEMS)
+      - layout: top-left
+        sub_title: August '18
+        description: | 
+          University Of Arizona Honors College
+
+
+  - title: Professional Development
+    layout: list
+    content:
+      - layout: top-left
+        sub_title: University Of Arizona
+        caption: Attendee<br />January '20
+        description: |
+          Launching Your Career In Stem
+
+      - layout: top-left
+        sub_title: University Of Arizona
+        caption: Presenter<br />November '19
+        description: |
+          Asems Research Symposium
+
+      - layout: top-left
+        sub_title: University Of Arizona
+        caption: Panelist<br />October '19
+        description: |
+          Undergraduate Research Panel
+
+      - layout: top-left
+        sub_title: Chicago
+        caption: Attendee<br />October '19
+        description: |
+          Society For Neuroscience
+
+      - layout: top-left
+        sub_title: Washington D.C.
+        caption: Attendee<br />September '19
+        description: |
+          S-Stem Symposium
+
+      - layout: top-left
+        sub_title: University Of Michigan
+        caption: Presenter<br />August '19
+        description: |
+          Siren/Nuro Final Symposium
+
+
+
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
