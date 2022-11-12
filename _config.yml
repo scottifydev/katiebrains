@@ -93,8 +93,9 @@ content:
         sub_title: Vendor Sales Associate
         caption: June '21 - September '21<br />Denver, CO           
         description: | # this will include new lines to allow paragraphs
-            * Ad amet sunt labore aliquip dolore aute consectetur exercitation reprehenderit sint ad commodo reprehenderit.
-            * Lorem aliqua Lorem eu aliquip aute veniam in velit cupidatat ad ut.
+            *	Greet and pitch product to 100+ customers daily 
+            *	Consistently produce $400 in sales at 3 different markets
+
 
       - layout: left
         title: Muddy Buck Cafe
@@ -103,8 +104,12 @@ content:
         sub_title: Manager
         caption: June '20 - June '21<br />Evergreen, CO           
         description: | # this will include new lines to allow paragraphs
-            * Aliquip incididunt enim officia qui.
-            * Elit quis laborum irure minim enim nulla laboris et eu laboris incididunt tempor.
+            * Manage 6 team members and delegate responsibilities to keep labor under 32 hours/daily
+            * Configured and optimized Square Point-of-Sale kiosks and reporting
+            * Receive and deliver payment for semi-weekly food and alcohol orders
+            * Mediation of customer dissatisfaction, and handling of employee relations
+            * Execute preparation of 45+ food and beverage orders per hour during peak season
+
 
       - layout: left
         title: Arizona Catering Company
@@ -113,8 +118,10 @@ content:
         sub_title: Catering Server
         caption: January '19 - May '19<br />Tucson, AZ           
         description: | # this will include new lines to allow paragraphs
-            * Ipsum deserunt occaecat nostrud do et cillum qui.
-            * Exercitation dolor nostrud dolore do aliqua commodo exercitation exercitation ipsum nisi voluptate ad eu ullamco.
+            * Presented 3 course meals for up to 800 VIP guests at University events 
+            * Butlered Hors d’ Oeuvres at private presidential events 
+
+
 
       - layout: left
         title: Olive Garden
@@ -123,8 +130,9 @@ content:
         sub_title: Server
         caption: July '17 - December '18<br />Prescott, AZ           
         description: | # this will include new lines to allow paragraphs
-            * Nostrud qui veniam occaecat quis duis ea veniam reprehenderit laborum.
-            * Eiusmod sint qui reprehenderit eiusmod tempor ut adipisicing qui anim minim.
+            *	Provided superior customer service 
+            *	Ranked in top five of beverage sales for a month streak
+
 
   - title: Academic Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -136,38 +144,44 @@ content:
         sub_title: ASEMS-T Peer Mentor
         caption: September '21 - October '21 <br />Tucson, AZ  
         description: | # this will include new lines to allow paragraphs
-            * Sint fugiat consequat dolore dolore consequat cillum officia eu.
-            * Pariatur pariatur est officia Lorem quis nostrud irure id irure excepteur veniam enim.s
+            *	Coordinated bi-weekly in person and virtual student meetings for 10 students to reinforce academic and personal progress while taking a full course load 
+            *	Advised students in study schedules and administrative processes 
+
 
       - layout: left
         title: University of Arizona
-        link: arizona.edu
-        link_text: arizona.edu
+        link: https://asems.arizona.edu/
+        link_text: ASEMS Scholars Program
         sub_title: Research assistant<br />Learning, Language, Literacy, And Lexicon Lab
         caption: January '19 - May '20 <br />Tucson, AZ  
         description: | # this will include new lines to allow paragraphs
-            * Et enim excepteur ipsum occaecat ut esse ex magna aute id proident.
-            * Nostrud deserunt anim laborum non ex tempor nisi sit.s
+            *	Administered working memory games to kindergartners with speech impairments and recorded data 3 times a week 
+            *	Developed video and written training material for data collectors 
+            *	Navigated network of 5 schools to coordinate up child interactions 
+
 
       - layout: left
         title: University of Michigan Research Experiences for Undergraduates Program	
-        link: arizona.edu
-        link_text: arizona.edu
+        link: https://neuroscience.med.umich.edu/reu-site-summer-intensive-research-experiences-neuroscience-siren
+        link_text: Summer Intensive Research Experiences in Neuroscience
         sub_title: Research Assistant<br />Translation & Developmental Lab
         caption: September '21 - October '21<br />Ann Arbor, MI
         description: | # this will include new lines to allow paragraphs
-            * Officia mollit eiusmod officia consequat occaecat minim id id et nulla commodo cupidatat exercitation anim.
-            * Fugiat cupidatat sint ex labore enim proident irure enim do fugiat non laboris.s
+            *	Analyzed structural brain data and behavioral data using R programing language
+            *	Presented findings in poster session as well as a live presentation for Neuroscience faculty
+
 
       - layout: left
         title: Yavapai College
         link: yc.edu
         link_text: yc.edu
-        sub_title: Lab Assistance<br />Chemistry Department
+        sub_title: Lab Assistant<br />Chemistry Department
         caption: August '17 - May '18<br />Prescott, AZ
         description: | # this will include new lines to allow paragraphs
-            * Proident occaecat irure aute esse amet mollit exercitation commodo laborum et pariatur.
-            * Qui aliquip aliquip dolore qui deserunt.s
+            *	Prepared solutions and standards for multiple classes labs per formulas and directions
+            *	Maintained and calibrated a variety of laboratory equipment, including Nuclear Magnetic Resonance machine, Gas Chromatographs, various spectroscopy equipment, and microgram scales
+            *	Recovered solvents and performed a variety of laboratory procedures and chemical synthesis
+
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -187,8 +201,6 @@ content:
   #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-
 
 
 
